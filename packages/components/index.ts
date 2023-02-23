@@ -1,1 +1,1 @@
-export { default as Mycomponents } from './Mycomponents';
+export const components = "components";
